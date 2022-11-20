@@ -1,5 +1,9 @@
 {
-  "name": "hackyeah2022",
+  "name": "hackyeah-2022",
+  "description": "My solution for HackYeah 2022.",
+  "keywords": [
+    "hackyeah"
+  ],
   "version": "0.1.0",
   "private": true,
   "scripts": {
